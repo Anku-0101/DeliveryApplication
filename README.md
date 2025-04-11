@@ -21,7 +21,7 @@ By default, the backend runs on:
 https://localhost:7022
 
 
-Frontend (React + Yarn)
+# Frontend (React + Yarn)
 cd frontend
 yarn install
 yarn start
