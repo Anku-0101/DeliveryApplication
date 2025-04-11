@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "FoodDeliveryApplication.Controllers.AgentController",
+    "Method": "GetAgents",
+    "RelativePath": "api/Agent/agents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDeliveryApplication.Controllers.AgentController",
+    "Method": "MoveAgents",
+    "RelativePath": "api/Agent/move",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDeliveryApplication.Controllers.OrderController",
+    "Method": "GenerateOrder",
+    "RelativePath": "api/Order/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDeliveryApplication.Controllers.OrderController",
+    "Method": "GetOrders",
+    "RelativePath": "api/Order/orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
